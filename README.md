@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nia Jain</h1>
-<h3 align="center">I am Software Engineer and exploring as much as I can to groom myself</h3>
+<h3 align="center">I am a Software Engineer and right now exploring as much as I can to groom myself</h3>
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1617042375876-a13e36732a04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niajain&label=Profile%20views&color=0e75b6&style=flat" alt="niajain" /> </p>
